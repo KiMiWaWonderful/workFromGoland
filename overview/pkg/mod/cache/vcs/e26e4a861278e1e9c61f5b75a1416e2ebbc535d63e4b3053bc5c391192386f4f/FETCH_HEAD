@@ -1,0 +1,4 @@
+99c9caf8c50d4f4dffffbba1a646c64e825d0a41		branch 'fp32' of https://github.com/dgryski/go-farm
+c33a81abcbb1db936de6fc5703e60733312b5686		branch 'hash64-xo' of https://github.com/dgryski/go-farm
+0c32befb75e3fe0968c829166c16f5e8233d7881		branch 'hash64test' of https://github.com/dgryski/go-farm
+6a90982ecee230ff6cba02d5bd386acc030be9d3		branch 'master' of https://github.com/dgryski/go-farm
